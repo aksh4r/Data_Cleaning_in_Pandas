@@ -61,10 +61,7 @@ The following Python libraries were utilized in this project:
 ### 1. Jupyter Notebook
 - Includes step-by-step examples of data cleaning techniques with annotated code and explanations.
 
-### 2. Visual Representations
-- Plots and graphs highlighting data inconsistencies and the impact of cleaning methods.
-
-### 3. Final Guide
+### 2. Final Guide
 - A consolidated notebook that can serve as a reference for future data cleaning tasks.
 
 This repository serves as a practical reference for mastering data cleaning in Pandas, enabling efficient and effective preparation of datasets for advanced analytics.
